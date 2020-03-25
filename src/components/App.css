@@ -79,7 +79,7 @@ img:hover {
 .chatbox-container {
   height: 500px;
   width: 300px;
-  background-color: whitesmoke;
+
 }
 
 .chatbox-title {
@@ -96,11 +96,11 @@ img:hover {
 }
 
 .chatbox-content {
-  border-color: red;
+  /* border-color: red;
   border-width: 3x;
-  border-style: solid;
+  border-style: solid; */
 
-  height: 90%;
+
 }
 
 .theirmsg {
